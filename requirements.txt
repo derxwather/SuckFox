@@ -1,0 +1,13 @@
+aiogram==2.25.1
+python-dotenv
+g4f
+python-telegram-bot-pagination
+asyncio
+aiohttp==3.7.4
+telethon
+apscheduler
+pytz
+reportlab
+fpdf
+transliterate
+requests 
